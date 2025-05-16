@@ -32,7 +32,7 @@ medical_image_classification_tool/
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/medical_image_classification_tool.git
+git clone https: https://github.com/YousefAlbawab/Medical_Image_Classification_Tool.git
 cd medical_image_classification_tool
 
 ### 2. Install dependencies
