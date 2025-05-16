@@ -13,20 +13,8 @@ This project is designed for learning and experimentation, with clear code struc
 
 ## Folder Structure
 
-medical_image_classification_tool/
-├── data/
-│   ├── train/
-│   │   ├── normal/
-│   │   └── abnormal/
-│   └── test/
-│       ├── normal/
-│       └── abnormal/
-├── train.py
-├── predict.py
-├── data_preparation.py
-├── model.py
-├── requirements.txt
-└── README.md
+![image](https://github.com/user-attachments/assets/6c6bd564-a878-45a2-b4f5-288aa9d33f14)
+
 
 ## Getting Started
 
